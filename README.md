@@ -8,9 +8,11 @@
 1. Capture your payment request and send to "Turbo Intruder" Extension.
 2. Before sending the request to Turbo Intruder, you entered the incorrect OTP.
 3. Replace otp=328129 to otp=%s: 
-   ![Screenshot_9](https://github.com/xamiron/bypassed-the-OTP-verification-process/assets/120724779/c7b87958-1e56-4f2a-bc65-b6bbcdea1de4)
+![1 1](https://github.com/xamiron/bypassed-the-OTP-verification-process/assets/120724779/368431d3-2dbc-4274-a5f2-35ceca623635)
+
 4. Write python script and start attack:
    
 ![Screenshot_10](https://github.com/xamiron/bypassed-the-OTP-verification-process/assets/120724779/c502fbd4-f8f6-404c-b5da-2f1ac75196ae)
 
-![Screenshot_11](https://github.com/xamiron/bypassed-the-OTP-verification-process/assets/120724779/81314be3-824c-41a1-bcd1-f83a2095656c)
+![1 2](https://github.com/xamiron/bypassed-the-OTP-verification-process/assets/120724779/348a68a0-5947-4000-a4a5-48a21f8598a1)
+
